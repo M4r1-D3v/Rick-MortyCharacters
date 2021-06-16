@@ -7,4 +7,5 @@ Melhorias:
 - Acrescentar um botão de voltar;
 - Acrescentar um link com maiores informações;
 - Tornar a página mais dentro dos padrões de acessibibilidade (para além do "alt");
-- Organizar melhor a disposição das imagens, de forma que o nome de alguns personagens não sobreponham em outros.
+- Organizar melhor a disposição das imagens, de forma que o nome de alguns personagens não sobreponham em outros;
+- Incluir um "if" para que os personagens aleatórios sejam sempre diferentes entre si.
